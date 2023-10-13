@@ -184,7 +184,10 @@ img {
   /* For dark mode */
   filter: grayscale(var(--image-grayscale)) opacity(var(--image-opacity));
 }
+.caution{
+  color: grey
 
+};
 `;
 
 export default GlobalStyles;
